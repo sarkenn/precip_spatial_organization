@@ -4,7 +4,7 @@ Radar-based metrics for precipitation properties and spatial organization.
 
 ## 💡 About 
 
-This repository contains data, scripts, and figures for Kennison, Wing, Bell, Hsiao, and Ruppert (in prep): 'Radar-observed relationships between properties of precipitation and its spatial organization in the tropical Atlantic during ORCESTRA/PICCOLO.' It contains three folders:  **(1)** Notebooks, **(2)** Figures, and **(3)** Files. Data for ORCESTRA/PICCOLO is available through IPFS. See https://browser.orcestra-campaign.org/#/?s=. 
+This repository contains data, scripts, and figures for Kennison, Wing, Bell, Hsiao, and Ruppert (in review): 'Radar-observed relationships between properties of precipitation and its spatial organization in the tropical Atlantic during ORCESTRA/PICCOLO.' It contains three folders:  **(1)** Notebooks, **(2)** Figures, and **(3)** Files. Data for ORCESTRA/PICCOLO is available through IPFS. See https://browser.orcestra-campaign.org/#/?s=. 
 
 
 ### **📓 Notebooks 📓**
@@ -22,14 +22,14 @@ Jupyter notebooks written in Python to compute metrics and reproduce plots and a
 <br>
 
 <div style="background-color: #FFDBBB; padding: 15px; border: 1px solid #0d0d0d; border-radius: 3px;">
-  <b>📈 🔎 analysis_plotting.ipynb 🔎 📈</b> Reproduce analysis and figures from Kennison et al. (in prep). 
+  <b>📈 🔎 analysis_plotting.ipynb 🔎 📈</b> Reproduce analysis and figures from Kennison et al. (in review). 
 </div>
 <br>
 
 
 ### **📊 Figures 📊**
 
-Figures from Kennison et al. (in prep) as .png files. 
+Figures from Kennison et al. (in review) as .png files. 
 
 ### **📁 Files 📁**
 
